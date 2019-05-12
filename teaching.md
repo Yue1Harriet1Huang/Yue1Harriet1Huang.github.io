@@ -41,11 +41,11 @@ permalink: /teaching/
 
 [//]: # I taught eight separate courses while a graduate student at the University of Alabama. I taught a few classes on several occasions, for which the substance and course materials would change from one term to the next.
 
-- PSC 101 (Intro to American Politics)
-- PSC 102 (America and the World — Foreign Policy Decision-Making)
-- PSC 201 (Scope of Political Science)
-- PSC 202 (Political Science Methods)
-- PSC 203 (Intro to Comparative Politics)
-- PSC 204 (Intro to International Relations)
-- PSC 442 (Interstate Conflict)
-- PSC 446w (Political Economy of Security)
+[//]: # - PSC 101 (Intro to American Politics)
+[//]: # - PSC 102 (America and the World — Foreign Policy Decision-Making)
+[//]: # - PSC 201 (Scope of Political Science)
+[//]: # - PSC 202 (Political Science Methods)
+[//]: # - PSC 203 (Intro to Comparative Politics)
+[//]: # - PSC 204 (Intro to International Relations)
+[//]: # - PSC 442 (Interstate Conflict)
+[//]: # - PSC 446w (Political Economy of Security)
