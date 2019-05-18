@@ -5,6 +5,7 @@ layout: post
 permalink: /blog/2019/05/hello-world/
 categories:
   - Site News
+  - Audio Journal Archive
 excerpt: "archives of my audio study journals"
 ---
 Started audio blogging about my study journey
