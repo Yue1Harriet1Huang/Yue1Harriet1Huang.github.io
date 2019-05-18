@@ -15,8 +15,11 @@ categories:
 <!--- {% include image.html url="/images/kameron-michaels.jpg" caption="Kameron Michaels isn't quite sure what's happening below, but she's certainly a little revolted at the sight." width=410 align="right" %} --->
 
 ## Python decorator dataclass
-- decorator's idea is similar to Java's `Class implements` either an Abstract Class or an Interface
-- reference post: [Understanding Python Dataclasses](https://medium.com/mindorks/understanding-python-dataclasses-part-1-c3ccd4355c34)
+- encountered this idea when reading [fastai's GitHub repository](https://github.com/fastai/fastai/blob/master/fastai/basic_data.py):
+- read about reference post: [Understanding Python Dataclasses](https://medium.com/mindorks/understanding-python-dataclasses-part-1-c3ccd4355c34)
+- decorator's idea is similar to Java's `Class implements` either an Abstract Class or an Interface:
+  + don't need to specify the `__init__` function as constructor - becomes more like how you define class attributes in Java
+  + certain comes along function with the decorator, e.g.  `__repr__`,  `__eq__`
 
 
 
