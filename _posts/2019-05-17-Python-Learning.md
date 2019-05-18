@@ -16,6 +16,7 @@ categories:
 
 ## Python decorator dataclass
 - decorator's idea is similar to Java's `Class implements` either an Abstract Class or an Interface
+- reference post: [Understanding Python Dataclasses](https://medium.com/mindorks/understanding-python-dataclasses-part-1-c3ccd4355c34)
 
 
 
