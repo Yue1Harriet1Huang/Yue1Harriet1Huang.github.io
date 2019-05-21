@@ -5,7 +5,9 @@ date: '2019-05-20'
 excerpt: 
 layout: post
 permalink: /blog/2019/05/text-classification/
-categories: Text Classification
+categories: 
+    - Text Classification
+    - Audio Journal
 ---
 
 
