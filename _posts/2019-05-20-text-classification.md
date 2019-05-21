@@ -5,7 +5,7 @@ date: '2019-05-20'
 excerpt: 
 layout: post
 permalink: /blog/2019/05/text-classification/
-categories: R
+categories: Text Classification
 ---
 
 
