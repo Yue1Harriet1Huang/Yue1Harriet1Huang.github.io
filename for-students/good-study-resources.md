@@ -27,3 +27,5 @@ Machine Learning - Healthcare
 - https://www.mlforhc.org/
 
 - [healthcare.ai](https://github.com/HealthCatalyst/healthcareai-r)
+
+- [AI for Clinical Medicine](http://www.cs.toronto.edu/~frank/csc490/#handouts)
