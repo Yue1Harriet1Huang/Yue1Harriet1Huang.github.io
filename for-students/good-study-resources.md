@@ -20,3 +20,10 @@ Paper Reviews
 ===
 
 - [Daniel's blog](https://thecrowsnest.ca/)
+
+Machine Learning - Healthcare
+===
+
+- https://www.mlforhc.org/
+
+- [healthcare.ai](https://github.com/HealthCatalyst/healthcareai-r)
