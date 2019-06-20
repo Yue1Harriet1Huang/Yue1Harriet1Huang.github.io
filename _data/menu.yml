@@ -17,6 +17,9 @@
 
 - title: "Research"
   href: "/research/"
+  subcategories:
+    - subtitle: "Paper Interviews"
+      subhref: "/research/paper-interviews/"
 
 - title: "Teaching"
   href: "/teaching/"
