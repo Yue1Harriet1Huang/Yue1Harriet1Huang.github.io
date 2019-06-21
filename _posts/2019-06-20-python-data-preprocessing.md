@@ -44,6 +44,6 @@ repeat one whole data structure by the specified number of times
 
 
 
-[Audio Journal Python Decorator](https://www.youtube.com/watch?v=NkDaYH5xfb0&feature=youtu.be&fbclid=IwAR18E0Pev5CgLfd8WCxT5Sgal23XilaMFdQ8jQ8onY_byWKc_Ocl79sHnwI)
+[Audio Journal Data Preprocessing - Concatenate, Shuffle, Repeat, Python Tricks](https://www.youtube.com/watch?v=_0MVyKhIqxg&feature=youtu.be)
 
 
