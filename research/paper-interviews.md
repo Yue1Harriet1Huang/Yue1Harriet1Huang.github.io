@@ -14,4 +14,7 @@ Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
 
 1. [different optimizers (with adaptive learning rates)](http://ruder.io/optimizing-gradient-descent/index.html#momentum)
 2. adaptive learning rate VS. cyclic learning rate
+
 [Adaptive - and Cyclical Learning Rates using PyTorch](https://towardsdatascience.com/adaptive-and-cyclical-learning-rates-using-pytorch-2bf904d18dee)
+
+[Introduction to Cyclical Learning Rates](https://www.datacamp.com/community/tutorials/cyclical-learning-neural-nets)
