@@ -6,5 +6,6 @@ permalink: /research/paper-interviews/
 
 ## Paper Interview List
 
-1. [Learning to Reweight Examples for Robust Deep Learning](https://arxiv.org/pdf/1803.09050.pdf)
+1. [Faster gradient descent via an adaptive learning rate](http://www.cs.toronto.edu/~mravox/p4.pdf)
+2. [Learning to Reweight Examples for Robust Deep Learning](https://arxiv.org/pdf/1803.09050.pdf)
 Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun 
