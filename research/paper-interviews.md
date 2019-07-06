@@ -13,3 +13,4 @@ Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
 ## Research Topics
 
 1. [different optimizers (with adaptive learning rates)](http://ruder.io/optimizing-gradient-descent/index.html#momentum)
+2. adaptive learning rate VS. cyclic learning rate
