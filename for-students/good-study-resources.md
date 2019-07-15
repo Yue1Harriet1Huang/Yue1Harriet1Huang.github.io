@@ -4,6 +4,10 @@ title: "Good Study Resources"
 permalink: /for-students/good-study-resources/
 ---
 
+General 
+===
+- [Self-learning Guide Metacademy](https://metacademy.org/roadmaps/)
+
 PyTorch
 ===
 
