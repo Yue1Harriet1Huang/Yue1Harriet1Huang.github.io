@@ -1,5 +1,8 @@
 - title: "About"
   href: "/about/"
+  subcategories:
+    - subtitle: "Intro of Members"
+      subhref: "/about/intro-of-members/"
 
 - title: "Blog"
   href: "/blog/"
