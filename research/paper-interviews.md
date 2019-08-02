@@ -18,3 +18,5 @@ Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
 [Adaptive - and Cyclical Learning Rates using PyTorch](https://towardsdatascience.com/adaptive-and-cyclical-learning-rates-using-pytorch-2bf904d18dee)
 
 [Introduction to Cyclical Learning Rates](https://www.datacamp.com/community/tutorials/cyclical-learning-neural-nets)
+
+3. Survival Analysis in Deep Learning - cohort retention
