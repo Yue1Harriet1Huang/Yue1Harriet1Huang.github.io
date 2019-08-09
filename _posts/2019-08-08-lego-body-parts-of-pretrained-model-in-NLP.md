@@ -14,6 +14,10 @@ excerpt: "how to use body parts of pretrained-models after breaking it down and 
 Prelude:
 (1) balance between upsampling folds VS. number of epochs to train for unbalanced dataset in LSTM
 
+- more epochs: trains the nn at a deeper level - generate more minority class prediction even at a very low upsampling scale - but could be false positives
+
+- less epochs but more upsampling folds: trains the nn at a more shallower level - still may be able to quite a few minority class prediction - the false positives VS. true positives are up for an investigation
+
 ## Steps of ULMFiT pretrained-models in NLP Transfer Learning:
 [Ref: Universal Language Model Fine-Tuning (ULMFiT)
 State-of-the-Art in Text Analysis
