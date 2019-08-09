@@ -10,6 +10,9 @@ categories:
   - Audio Journal Archive
 excerpt: "how to use body parts of pretrained-models after breaking it down and fine-tuning"
 ---
+Prelude:
+(1) balance between upsampling folds VS. number of epochs to train for unbalanced dataset in LSTM
+
 ## Steps of ULMFiT pretrained-models in NLP Transfer Learning:
 [Ref: Universal Language Model Fine-Tuning (ULMFiT)
 State-of-the-Art in Text Analysis
