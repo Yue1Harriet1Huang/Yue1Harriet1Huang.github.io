@@ -10,6 +10,7 @@ categories:
   - Audio Journal Archive
 excerpt: "how to use body parts of pretrained-models after breaking it down and fine-tuning"
 ---
+
 Prelude:
 (1) balance between upsampling folds VS. number of epochs to train for unbalanced dataset in LSTM
 
