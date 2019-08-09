@@ -28,5 +28,9 @@ Authors: Sandra Faltl, Michael Schimpke & Constantin Hackober](https://humboldt-
 1. Forward pass through the LM in pretrained-model
 ![Architecture of the Pretrained Model](/images/architecture_pretrained_model.png)
 
+## Q & A
+
+1. What is considered the `word embedding`, the output after embedding layer or the output the entire encoder? How about the **word2vec** & **glove** embeddings? which type are they?
 
 [Audio Journal: Lego body parts of pretrained-models after anatomy of Transfer Learning](https://www.youtube.com/watch?v=IDZzmpSpy-c&feature=youtu.be)
+
