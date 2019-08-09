@@ -10,10 +10,4 @@ categories:
 excerpt: "how to use body parts of pretrained-models after breaking it down and fine-tuning"
 ---
 
-
-
-{% include image.html url="/images/architecture_pretrained_model.png" caption="Architecture of the Pretrained Model" width=350 align="right" %}
-
-
-
-![plot of chunk ajdwplots](/images/ajdwplots-1.png)
+![Architecture of the Pretrained Model](/images/architecture_pretrained_model.png)
