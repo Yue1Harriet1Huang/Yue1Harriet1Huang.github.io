@@ -1,5 +1,5 @@
 ---
-title: 'Lego body parts of pretrained-models after anatomy of Transfer Learning '
+title: 'Lego body parts of pretrained-models after anatomy of Transfer Learning'
 author: yue
 layout: post
 date: "2019-08-08"
@@ -27,3 +27,6 @@ Authors: Sandra Faltl, Michael Schimpke & Constantin Hackober](https://humboldt-
 
 1. Forward pass through the LM in pretrained-model
 ![Architecture of the Pretrained Model](/images/architecture_pretrained_model.png)
+
+
+[Audio Journal: Lego body parts of pretrained-models after anatomy of Transfer Learning](https://www.youtube.com/watch?v=IDZzmpSpy-c&feature=youtu.be)
