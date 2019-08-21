@@ -10,13 +10,13 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "For Students"
-  href: "/for-students/"
+- title: "Useful Resources"
+  href: "/useful-resources/"
   subcategories:
     - subtitle: "Good Study Resources"
-      subhref: "/for-students/good-study-resources/"
+      subhref: "/useful-resources/good-study-resources/"
     - subtitle: "Vlog Archives"
-      subhref: "/for-students/vlog-archives/"
+      subhref: "/useful-resources/vlog-archives/"
 
 - title: "Research"
   href: "/research/"
