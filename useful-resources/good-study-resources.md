@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Good Study Resources"
-permalink: /for-students/good-study-resources/
+permalink: /useful-resources/good-study-resources/
 ---
 
 General 
