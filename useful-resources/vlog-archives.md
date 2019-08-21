@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Vlog Archives"
-permalink: /for-students/vlog-archives/
+permalink: /useful-resources/vlog-archives/
 ---
 
