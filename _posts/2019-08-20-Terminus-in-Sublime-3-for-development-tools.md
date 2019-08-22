@@ -14,9 +14,15 @@ tags:
 
 ---
 
+### Terminus
+
 1. Package Control: Install Package
 
 2. Terminus
 
 3. Ctrl + Shift + P > Terminus Open
 
+### SUBLIMEREPL
+
+
+### Spyder
