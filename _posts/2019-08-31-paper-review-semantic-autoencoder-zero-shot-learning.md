@@ -12,6 +12,7 @@ excerpt: "paper review: semantic autoencoder zero-shot learning"
 ---
 
 [Paper Link: Semantic Autoencoder Zero-shot Learning](http://openaccess.thecvf.com/content_cvpr_2017/html/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.html)
+
 [Code Implementation Link](https://github.com/Elyorcv/SAE)
 
 On Friday Aug 30 2019, in the meetup I hosted, we reviewed this paper. We mainly covered 3 points:
