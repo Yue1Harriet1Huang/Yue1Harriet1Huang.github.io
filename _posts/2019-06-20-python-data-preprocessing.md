@@ -41,7 +41,17 @@ array([[1, 2, 1, 2],
 ```
 repeat one whole data structure by the specified number of times
 
+## Manipulate with Data Structures
 
+Iterate
+---
+
+- use asterisk `*` before the iterable data structure such as List, so it iterates through the elements and applies the function
+```
+l = ["1", "2", "3"]
+print(*l) #prints "1", "2", "3" separately element-wise
+print(l) #gives the entire list ["1", "2", "3"]
+```
 
 
 [Audio Journal Data Preprocessing - Concatenate, Shuffle, Repeat, Python Tricks](https://www.youtube.com/watch?v=_0MVyKhIqxg&feature=youtu.be)
