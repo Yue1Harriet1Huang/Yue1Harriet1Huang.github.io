@@ -20,12 +20,11 @@ On Friday Aug 30 2019, in the meetup I hosted, we reviewed this paper. We mainly
 1. Simple Autoencoder
 
 2. Semantic Autoencoder: 
-
   (1) What is the difference between semantic autoencoder & simple - and how to achieve it in architecture
-  
+ 
 3. Zero-shot learning
 
-### Q & A
+## Q & A
 
 1. what is the difference between **generative model** and **discriminative model**
 
