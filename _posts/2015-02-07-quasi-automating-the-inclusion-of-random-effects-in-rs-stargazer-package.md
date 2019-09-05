@@ -9,4 +9,4 @@ categories:
 excerpt: " "
 ---
 
-Provide Supervision at Hidden State $$\rightarrow$$
+Provide Supervision at Hidden State - <img src="https://latex.codecogs.com/gif.latex?\rightarrow" /> 
