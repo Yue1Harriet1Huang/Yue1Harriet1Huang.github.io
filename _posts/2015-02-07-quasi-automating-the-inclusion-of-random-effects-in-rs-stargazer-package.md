@@ -9,4 +9,8 @@ categories:
 excerpt: " "
 ---
 
-Provide Supervision at Hidden State - <img src="https://latex.codecogs.com/gif.latex?\rightarrow" /> 
+Provide Supervision at Hidden State <img src="https://latex.codecogs.com/gif.latex?\rightarrow" /> generates semantic representation
+
+Provide Supervision at Raw Logits layer <img src="https://latex.codecogs.com/gif.latex?\rightarrow" /> generates distilled neural net
+
+
