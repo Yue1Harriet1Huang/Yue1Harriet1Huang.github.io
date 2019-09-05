@@ -13,4 +13,9 @@ Provide Supervision at Hidden State <img src="https://latex.codecogs.com/gif.lat
 
 Provide Supervision at Raw Logits layer <img src="https://latex.codecogs.com/gif.latex?\rightarrow" /> generates distilled neural net
 
+References
+---
+
+[distill bert to logistic regression](https://towardsdatascience.com/distilling-bert-how-to-achieve-bert-performance-using-logistic-regression-69a7fc14249d)
+
 
