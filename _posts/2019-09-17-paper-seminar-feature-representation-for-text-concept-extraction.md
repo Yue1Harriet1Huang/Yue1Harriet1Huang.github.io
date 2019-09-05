@@ -13,7 +13,6 @@ tags:
 excerpt: ""
 ---
 
-
 This paper seminar happens at [Toronto Machine Learning Circles][1]. You can download the paper at [arxiv](https://arxiv.org/pdf/1811.00070.pdf) and the author has published its implementation on [GitHub](https://github.com/yifengtao/roamresearch)
 
 
