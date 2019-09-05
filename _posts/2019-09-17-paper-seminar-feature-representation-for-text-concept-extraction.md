@@ -1,19 +1,19 @@
 ---
-title: Moving from Beamer to R Markdown
-author: steve
+title: Paper Seminar: Feature Representation for clinical text concept extraction
+author: yue
 layout: post
-permalink: /blog/2015/02/moving-from-beamer-to-r-markdown/
+permalink: /blog/2019/09/paper-seminar-text-concept-extraction/
 categories:
-  - R Markdown
+  - Toronto Machine Learning Circles
+  - Paper Seminar
+  - Feature Representation
+  - Text Concept Extraction
 tags:
-  - Beamer
-  - LaTeX
-  - Markdown
-  - R
-excerpt: "Markdown is awesome. It's much better for preparing slides than the Beamer package in LaTeX. I offer a guide to get started."
+  - Paper Seminar
+excerpt: ""
 ---
 
-I've been using LaTeX for document rendering for over five years. No one else in my department at the time used it, beyond [my friend Joe][1] (who introduced it to me). There was no pressure from my department to learn it, only a curiosity on my end for the benefits of it. The transition to LaTeX came with a concurrent transition to its sister package Beamer, which renders Powerpoint-styled presentations. Both have numerous advantages over their Microsoft equivalents.
+This paper seminar happens at [Toronto Machine Learning Circles][1].
 
 However, I never particularly cared for Beamer. At least, I found LaTeX's document preparation system more intuitive than Beamer's slides preparation system. Using both will lead to proficiency, but Beamer markup remains ugly and a chore to write.
 
@@ -343,7 +343,7 @@ Beamer markup is messy. Markdown is much more elegant.
 
 
 
- [1]: http://www.joestradam.us/
+ [1]: https://www.meetup.com/Toronto-Machine-Learning-Book-Club/events/264572510/
  [2]: http://en.wikipedia.org/wiki/Markdown
  [3]: http://johnmacfarlane.net/pandoc/
  [4]: http://johnmacfarlane.net/pandoc/demo/example9/templates.html
