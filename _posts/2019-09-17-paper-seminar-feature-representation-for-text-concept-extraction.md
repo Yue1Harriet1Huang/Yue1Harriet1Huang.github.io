@@ -13,11 +13,9 @@ tags:
 excerpt: ""
 ---
 
-This paper seminar happens at [Toronto Machine Learning Circles][1].
+This paper seminar happens at [Toronto Machine Learning Circles][1]. You can download the paper at [arxiv](https://arxiv.org/pdf/1811.00070.pdf) and the author has published its implementation on [GitHub](https://github.com/yifengtao/roamresearch)
 
-However, I never particularly cared for Beamer. At least, I found LaTeX's document preparation system more intuitive than Beamer's slides preparation system. Using both will lead to proficiency, but Beamer markup remains ugly and a chore to write.
 
-Look at it this way. Almost the entirety of a LaTeX document is the content itself whereas it seems half (if not more) of a Beamer document is markup. Take, for example, this sample code from a lecture slide for one of my classes.
 
 {% highlight latex %}
 
