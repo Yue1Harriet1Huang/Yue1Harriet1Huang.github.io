@@ -1,5 +1,5 @@
 ---
-title: Reading Group Discussion: Feature Representation for clinical text concept extraction
+title: "Reading Group Discussion: Feature Representation for clinical text concept extraction"
 author: yue
 layout: post
 permalink: /blog/2019/09/reading-group-text-concept-extraction/
