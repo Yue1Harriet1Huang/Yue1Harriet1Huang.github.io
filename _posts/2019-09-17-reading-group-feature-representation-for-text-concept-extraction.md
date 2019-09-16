@@ -2,14 +2,15 @@
 title: Paper Seminar: Feature Representation for clinical text concept extraction
 author: yue
 layout: post
-permalink: /blog/2019/09/paper-seminar-text-concept-extraction/
+permalink: /blog/2019/09/reading-group-text-concept-extraction/
 categories:
   - Toronto Machine Learning Circles
-  - Paper Seminar
+  - Audio Journal Archive
+  - Reading Group Discussion Summaries
   - Feature Representation
   - Text Concept Extraction
 tags:
-  - Paper Seminar
+  - Reading Group Discussion Summaries
 excerpt: ""
 ---
 
