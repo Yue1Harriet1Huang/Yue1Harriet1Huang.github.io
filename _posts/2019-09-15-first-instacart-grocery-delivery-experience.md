@@ -20,3 +20,5 @@ excerpt: ""
 
 [Coupon Code: DBD583011A](https://inst.cr/t/BhkyjuJQf)
 
+[My Video Description](https://www.youtube.com/watch?v=sNzu769yVxU&feature=youtu.be)
+
