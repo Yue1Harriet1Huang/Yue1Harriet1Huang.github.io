@@ -1,5 +1,5 @@
 ---
-title: Philosophical Meetup Events in Toronto
+title: A well-balanced tech life and Philosophical Meetup Events in Toronto
 author: yue
 layout: post
 permalink: /blog/2019/09/philosophical-meetup-events-in-Toronto/
