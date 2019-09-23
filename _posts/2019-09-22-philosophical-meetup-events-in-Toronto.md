@@ -11,4 +11,4 @@ excerpt: ""
 
 
 ### Buddhism and Cognitive Science
-Awakening from the Meaning Crisis 
+[Awakening from the Meaning Crisis](https://www.youtube.com/watch?v=54l8_ewcOlY&feature=youtu.be)
