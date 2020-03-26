@@ -1,11 +1,13 @@
 ---
-title: "What Can Survey Data Tell Us About Public Opinion and the Gun Control Debate?"
-author: steve
+title: "Data Engineering - ETL - Transion from SSIS to Azure Cloud Data Factory"
+author: yue
 layout: post
 permalink:
 categories:
-  - Political Science
-excerpt:  "We commonly believe the gun control debate to be a polarizing issue, but data from the General Social Survey suggest that is not necessarily true."
+  - Data Engineering
+  - ETL
+  - Azure Data Factory
+excerpt:  ""
 ---
 
 <!--We commonly believe the gun control debate to be a polarizing issue, but data from the General Social Survey suggest that is not necessarily true. GOP partisanship does not robustly reduce support for gun control and most Republicans actually support gun control measures. However, the issue is quickly becoming a polarizing issue among the electorate, and it's likely not just the South that is responsible for that.
