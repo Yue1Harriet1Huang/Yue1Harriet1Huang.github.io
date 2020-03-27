@@ -16,6 +16,10 @@ excerpt:  ""
 
 did a indeed run
 
+## Good Learning Resources
+
+- [**Move Data from On-Premise SQL Server to Azure Blob Storage Using Azure Data Factory**](https://towardsdatascience.com/move-data-from-on-premise-sql-server-to-azure-blob-storage-using-azure-data-factory-bbf67e4e5fde)
+
 The *New York Times* even dusted off a device it had not used in 95 years---the front-page editorial---to argue that our legislators' inability to push sensible gun control legislation into law is a ["moral outrage and national disgrace"](http://www.nytimes.com/2015/12/05/opinion/end-the-gun-epidemic-in-america.html).
 
 The *New York Daily News* and *New York Times* are making these demonstrations because gun control legislation is a non-starter in Congress. [Senate Republicans voted down legislation](http://www.nydailynews.com/news/politics/senate-gop-votes-terrorist-gun-bill-article-1.2454448) that would have closed background check loopholes and banned subjects on the terror watch list from purchasing firearms. GOP opposition to the bill was almost unanimous, which conforms to the preferences of the National Rifle Association on this issue.
