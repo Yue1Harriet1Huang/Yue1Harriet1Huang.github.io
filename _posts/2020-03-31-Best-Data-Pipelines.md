@@ -20,6 +20,6 @@ excerpt: ""
 ### Python Pipeline: to On-Prem SQL-Server
 - sqlcmd
 - pyodbc 
-- 
+- dask
 
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
