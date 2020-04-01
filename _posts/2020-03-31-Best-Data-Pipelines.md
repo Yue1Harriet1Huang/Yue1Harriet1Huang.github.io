@@ -9,13 +9,17 @@ categories:
 excerpt: ""
 ---
 
-1. 
-### Database: SQL-Server VS. Azure SQL DB
+### Database Comparison: 
+
+#### SQL-Server VS. Azure SQL DB
+
+#### Google BigQuery VS. Azure Cosmos DB
 
 #### Migrate from On-Premise SQL-Server to Cloud Azure
 
-### Python to On-Prem SQL-Server
-
+### Python Pipeline: to On-Prem SQL-Server
 - sqlcmd
+- pyodbc 
+- 
 
-### sqlcmd VS. pyodbc
+#### Python Pipeline Comparison: sqlcmd VS. pyodbc
