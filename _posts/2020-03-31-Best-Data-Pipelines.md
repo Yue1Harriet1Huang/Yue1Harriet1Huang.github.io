@@ -9,5 +9,13 @@ categories:
 excerpt: ""
 ---
 
-**Database: ** SQL-Server
+1. 
+### Database: SQL-Server VS. Azure SQL DB
 
+#### Migrate from On-Premise SQL-Server to Cloud Azure
+
+### Python to On-Prem SQL-Server
+
+- sqlcmd
+
+### sqlcmd VS. pyodbc
