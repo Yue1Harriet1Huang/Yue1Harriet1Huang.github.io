@@ -11,7 +11,7 @@ excerpt: ""
 
 ### Database Comparison: 
 
-#### SQL-Server VS. Azure SQL DB
+  #### SQL-Server VS. Azure SQL DB
 
 #### Google BigQuery VS. Azure Cosmos DB
 
@@ -21,6 +21,7 @@ excerpt: ""
 - sqlcmd
 - pyodbc 
 - dask
-  #### e
+  #### pyodbc + pandas.read_sql()
+  
 
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
