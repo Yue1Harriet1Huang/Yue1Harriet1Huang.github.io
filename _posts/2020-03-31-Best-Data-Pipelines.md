@@ -23,5 +23,7 @@ excerpt: ""
 - dask
   #### pyodbc + pandas.read_sql()
   
+  #### (pyspark's equivalent of read_sql)[https://stackoverflow.com/questions/38376307/create-spark-dataframe-from-sql-query]
+  
 
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
