@@ -12,6 +12,9 @@ excerpt:  ""
 
 {% include image.html url="/images/planned-parenthood-shooter-arrested.jpg" caption="Police take Robert Lewis Dear into custody after a mass shooting at a Colorado Springs Planned Parenthood." width=450 align="right" %}
 
+## [What is Azure Data Factory](https://www.jamesserra.com/archive/2014/11/what-is-azure-data-factory/)
+It is a place to integrate scattered data sources (on-prem, cloud etc.)
+
 ## What Jobs are Associated with Azure Data Factory
 
 did a indeed run
