@@ -27,3 +27,7 @@ excerpt: ""
   
 
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
+
+### [Data Serialization](https://martin-thoma.com/data-serialization/)
+
+- yaml file
