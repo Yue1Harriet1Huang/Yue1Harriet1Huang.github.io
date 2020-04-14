@@ -15,6 +15,7 @@ excerpt: ""
 https://github.com/microsoft/sql-server-samples
 
 - 1 video per day
+- build database of toronto city council meeting
 
 Community Project:
 
