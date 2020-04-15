@@ -1,11 +1,10 @@
 ---
-title: "String formatting with loops in Python Tricks"
+title: "Collapse 2 Lists into A Dictionary in Python Tricks"
 author: yue
 layout: post
 permalink:
 categories:
-  - String Formatting
-  - Loops
+  - Dictionary
   - Python Tricks  
 excerpt: ""  
 ---
