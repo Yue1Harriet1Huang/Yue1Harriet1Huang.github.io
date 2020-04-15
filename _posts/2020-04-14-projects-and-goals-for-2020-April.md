@@ -13,7 +13,7 @@ excerpt: ""
 
 ### - learn CD/CI pipeline
 
-- Sophisticated SQL
+- Sophisticated SQL: datacamp
     - 1 video per day
     - build database of toronto city council meeting
 
