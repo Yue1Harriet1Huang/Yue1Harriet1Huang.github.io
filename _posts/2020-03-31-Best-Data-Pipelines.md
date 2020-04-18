@@ -21,10 +21,12 @@ excerpt: ""
 - sqlcmd
 - pyodbc 
 - dask
+- pyspark, koala
   #### pyodbc + pandas.read_sql()
   
-  #### (pyspark's equivalent of read_sql)[https://stackoverflow.com/questions/38376307/create-spark-dataframe-from-sql-query]
-  databricks.koala Versus Pandas
+  #### (pyspark's koala equivalent of read_sql)[https://stackoverflow.com/questions/38376307/create-spark-dataframe-from-sql-query]
+    ##### > What is Databricks Koala
+            + A high level wrapper of PySpark
   
 
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
