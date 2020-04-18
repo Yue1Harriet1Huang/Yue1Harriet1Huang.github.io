@@ -28,6 +28,7 @@ excerpt: ""
   - What is its performance improvement from pandas sql? (size of data, speed, memory)
   - What is the gain you have only one machine/work from using koala over pandas
   - ever pyodbc + koala instead of pyspark?
+  - configure executor memory
   
 [Spark Dataframe Performance Benefits](https://www.data4v.com/spark-dataframe-performance-benefits/)
 
