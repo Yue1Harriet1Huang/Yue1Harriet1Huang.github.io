@@ -26,6 +26,7 @@ excerpt: ""
 > What is Databricks Koala
   - A high level wrapper of PySpark
   - What is its performance improvement from pandas sql? (size of data, speed, memory)
+  - What is the gain you have only one machine/work from using koala over pandas
   
 
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
