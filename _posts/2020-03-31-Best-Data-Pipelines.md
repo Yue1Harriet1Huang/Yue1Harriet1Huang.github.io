@@ -9,24 +9,23 @@ categories:
 excerpt: ""
 ---
 
-### Database Comparison: 
+## Database Comparison: 
+- SQL-Server VS. Azure SQL DB
+  - Migrate from On-Premise SQL-Server to Cloud Azure
+- Google BigQuery VS. Azure Cosmos DB
 
-  #### SQL-Server VS. Azure SQL DB
-
-#### Google BigQuery VS. Azure Cosmos DB
-
-#### Migrate from On-Premise SQL-Server to Cloud Azure
-
-### Python Pipeline: to On-Prem SQL-Server
+## Python Pipeline: to On-Prem SQL-Server
 - sqlcmd
 - pyodbc 
 - dask
 - pyspark, koala
-  #### pyodbc + pandas.read_sql()
-  
-  #### (pyspark's koala equivalent of read_sql)[https://stackoverflow.com/questions/38376307/create-spark-dataframe-from-sql-query]
-    ##### > What is Databricks Koala
-            + A high level wrapper of PySpark
+
+### pyodbc + pandas.read_sql()
+
+#### (pyspark's koala equivalent of read_sql)[https://stackoverflow.com/questions/38376307/create-spark-dataframe-from-sql-query]
+> What is Databricks Koala
+  - A high level wrapper of PySpark
+  - What is its performance improvement from pandas sql? (size of data, speed, memory)
   
 
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
