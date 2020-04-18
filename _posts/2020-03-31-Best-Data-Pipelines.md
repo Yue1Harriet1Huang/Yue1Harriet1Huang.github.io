@@ -30,6 +30,7 @@ excerpt: ""
   - cannot be pyodbc + koala instead of jdbc
   - configure executor memory, configure master
   - What is a JDBC URI to use koalas.read_sql()
+  - When use Koalas, you don't need to construct your own sparksession?
   
 [Spark Dataframe Performance Benefits](https://www.data4v.com/spark-dataframe-performance-benefits/)
 
