@@ -27,8 +27,9 @@ excerpt: ""
   - A high level wrapper of PySpark
   - What is its performance improvement from pandas sql? (size of data, speed, memory)
   - What is the gain you have only one machine/work from using koala over pandas
-  - ever pyodbc + koala instead of pyspark?
+  - cannot be pyodbc + koala instead of jdbc
   - configure executor memory, configure master
+  - What is a JDBC URI to use koalas.read_sql()
   
 [Spark Dataframe Performance Benefits](https://www.data4v.com/spark-dataframe-performance-benefits/)
 
