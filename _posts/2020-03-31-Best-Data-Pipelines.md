@@ -22,11 +22,12 @@ excerpt: ""
 
 ### pyodbc + pandas.read_sql()
 
-#### (pyspark's koala equivalent of read_sql)[https://stackoverflow.com/questions/38376307/create-spark-dataframe-from-sql-query]
+### (pyspark's koala equivalent of read_sql)[https://stackoverflow.com/questions/38376307/create-spark-dataframe-from-sql-query]
 > What is Databricks Koala
   - A high level wrapper of PySpark
   - What is its performance improvement from pandas sql? (size of data, speed, memory)
   - What is the gain you have only one machine/work from using koala over pandas
+  - ever pyodbc + koala instead of pyspark?
   
 
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
