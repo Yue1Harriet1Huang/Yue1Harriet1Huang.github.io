@@ -9,3 +9,10 @@ excerpt: ""
 ---
 
 {% include image.html url="/images/donald-trump.jpg" caption="The Trump phenomenon has exposed an undercurrent in American values that World Values Survey researchers have known well." width=450 align="right" %}
+
+1. one more folder with the same name as the package name 
+2. `setup.py` file outside of the new package folder and inside the original folder
+3. `__init__.py` file inside the new folder 
+4. how to add to requirements.txt to `pip install` your new repo
+5. public versus private repo: https versus git ssh
+
