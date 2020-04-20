@@ -34,6 +34,8 @@ excerpt: ""
   
 [Spark Dataframe Performance Benefits](https://www.data4v.com/spark-dataframe-performance-benefits/)
 
+https://code.tubitv.com/introducing-tubi-data-runtime-387e8651d08a
+
 #### Python Pipeline Comparison: sqlcmd VS. pyodbc
 
 ### [Data Serialization](https://martin-thoma.com/data-serialization/)
