@@ -1,11 +1,13 @@
 ---
-title: "Automatically Do (Just About) Everything in Your Syllabus with R Markdown"
-author: steve
+title: "Python Trick: How to Format Strings Imported From Saved Files"
+author: yue
 layout: post
 permalink:
 categories:
-  - R Markdown
-excerpt: "I have a series of templates for R Markdown. Here's one for an syllabus. I offer a guide on how to use it."
+  - Python Tricks
+  - Format Strings
+  - Audio Journal Archive
+excerpt: ""
 ---
 
 {% include image.html url="/images/itsinsyllabus.gif" caption="Via PhD Comics, naturally." width=450 align="right" %}
