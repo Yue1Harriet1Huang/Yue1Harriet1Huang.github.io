@@ -13,5 +13,7 @@ excerpt: ""
 
 [SSIS on Azure](https://docs.microsoft.com/en-us/sql/integration-services/lift-shift/ssis-azure-lift-shift-ssis-packages-overview?view=sql-server-ver15)
 
+[How to Use Python to Query SQL Database on Azure](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-connect-query-python?tabs=windows)
+
 Courses
 https://courses.edx.org/courses/course-v1:Microsoft+DAT217x+3T2018/courseware/92e401542abd40b288575ee92daac782/5f549fcbd6c54044bff20288e25cb46d/?child=first
