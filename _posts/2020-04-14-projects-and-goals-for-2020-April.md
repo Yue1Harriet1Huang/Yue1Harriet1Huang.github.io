@@ -17,6 +17,8 @@ excerpt: ""
 - Sophisticated SQL: datacamp and https://github.com/ktaranov/sqlserver-kit
     - 1 video per day
     - build database of toronto city council meeting
+    - optimize sql
+    - SSIS on Azure
 
 
 Community Project:
