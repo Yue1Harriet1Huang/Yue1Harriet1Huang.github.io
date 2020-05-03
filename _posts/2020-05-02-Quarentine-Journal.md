@@ -8,7 +8,7 @@ categories:
 excerpt: ""
 ---
 
-{% include image.html url="/images/IMG_20200107_122117.jpg" caption="Okinawa in 2020 January" width=550 align="top" %}
+{% include image.html url="/images/IMG_20200107_122117.jpg" caption="Okinawa in 2020 January" width=550 length=300 align="top" %}
 
 Canada now starting to feel closer to Okinawa in January, but not yet....
 
