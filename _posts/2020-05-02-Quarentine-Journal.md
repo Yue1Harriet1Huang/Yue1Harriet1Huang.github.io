@@ -8,9 +8,9 @@ categories:
 excerpt: ""
 ---
 
-{% include image.html url="/images/IMG_20200107_122117.jpg" caption="Okinawa in 2020 January" width=550 length=300 align="top" %}
-
+{% include image.html url="/images/IMG_20200107_122117.jpg" caption="Okinawa in 2020 January" width=550 length=200 align="left" %}
 Canada now starting to feel closer to Okinawa in January, but not yet....
+
 
 {% include image.html url="/images/IMG_20200502_184650.jpg" caption="Supper not usually done in regular times" width=450 align="right" %}
 - Overcome napping slack drive and did housework -- essence: if the thing you wanna do makes sense......
