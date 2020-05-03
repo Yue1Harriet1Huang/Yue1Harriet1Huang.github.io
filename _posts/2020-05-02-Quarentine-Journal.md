@@ -12,6 +12,6 @@ excerpt: ""
 
 - Overcome napping slack drive and did housework -- essence: if the thing you wanna do makes sense......
 
-- made `crash-course` as the background music instead of `techlead's`
+- made [crash-course](https://www.youtube.com/watch?v=NnoFj2cMRLY) as the background music instead of `techlead's`
 
 - started push-up exercises -- hopefully daily
