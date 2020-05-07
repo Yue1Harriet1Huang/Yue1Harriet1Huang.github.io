@@ -8,7 +8,7 @@ categories:
 excerpt: ""
 ---
 
-<!-- {% include image.html url="/images/productivity_rule_2min_rule.png" caption="Productivity Rule Inspiration" width=450 align="right" %} -->
+{% include image.html url="/images/productivity_rule_2min_rule.png" caption="Productivity Rule Inspiration" width=450 align="right" %}
 
 - [Very Nice VLogger:](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg)
 
