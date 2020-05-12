@@ -8,6 +8,13 @@ permalink: /useful-resources/
 
 [Video post-production services at UofT](http://sites.utoronto.ca/ic/mediaproduction/production.html)
 
-## Social Policy Institutes
+## Social Policy 
+
+### Institutes
 
 [Urban Policy Lab at UofT](https://urbanpolicylab.ca/)
+
+### Interesting Social Policy Journals
+[Critical Social Policty - Peer reviewed](https://journals.sagepub.com/home/csp)
+
+ it aims to develop an understanding of welfare from socialist, feminist, anti-racist and radical perspectives.
