@@ -14,6 +14,8 @@ permalink: /useful-resources/
 
 [Urban Policy Lab at UofT](https://urbanpolicylab.ca/)
 
+[TORONTO THINKTANK WELLESLEY INSTITUTE](https://www.wellesleyinstitute.com/topics/)
+
 ### Interesting Social Policy Journals
 [Critical Social Policty - Peer reviewed](https://journals.sagepub.com/home/csp)
 
