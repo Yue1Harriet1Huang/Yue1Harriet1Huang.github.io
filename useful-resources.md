@@ -16,6 +16,8 @@ permalink: /useful-resources/
 
 [TORONTO THINKTANK WELLESLEY INSTITUTE](https://www.wellesleyinstitute.com/topics/)
 
+[ML for Social Policy](https://ssc.wisc.edu/~jfletcher/Website/Lab/projects.html)
+
 ### Interesting Social Policy Journals
 [Critical Social Policty - Peer reviewed](https://journals.sagepub.com/home/csp)
 
