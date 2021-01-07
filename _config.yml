@@ -2,9 +2,8 @@
 title: Yue Harriet Huang
 email: dariahuangster@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a data scientist working on NLP and Image recognition problems in
-  health-care industry. Topics on my site include
-  my research interests, Python, R, and professional and personal development.
+  I'm a data intelligence practioner that have contributed building innovative prediction models in solving day-to-day problems in retail optimized pricing, medical detection and financial industry using statistical learning and deep learning technologies. Topics on my site include
+  my research interests, Python, and professional and personal development.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://Yue1Harriet1Huang.github.io" # the base hostname & protocol for your site
 twitter_username: YueHarriet
