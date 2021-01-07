@@ -35,7 +35,7 @@ permalink: /teaching/
 [//]: # - PS 283 (Intro to International Security)
 [//]: # - PS 300 (Democracies and Peace)
 [//]: # - PS 395 (International Organization)
-- PS 396 (International Conflict)
+[//]: # - PS 396 (International Conflict)
 
 [//]: # ### University of Alabama
 
